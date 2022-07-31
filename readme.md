@@ -3,7 +3,8 @@
 - 😄 My name is: Suriyakamo Karo
 - ⚡ Student id: 63367131
 - 🔭 I'm currently studying on Faculty of Engineering.
--    Interesting career in the future : Game Master
+- 👨‍💻 Interesting career in the future : Game Master
+- <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
 
 ## Developer Tech
 
