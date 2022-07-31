@@ -5,6 +5,7 @@
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 👨‍💻 Interesting career in the future : Game Master
 - <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"> 40%
+- Aptitude is calculation
  
 ## Developer Tech
 
