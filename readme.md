@@ -4,7 +4,7 @@
 - ⚡ Student id: 63367131
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 👨‍💻 Interesting career in the future : Game Master
-- <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+- <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 
 ## Developer Tech
 
