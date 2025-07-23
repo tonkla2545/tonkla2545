@@ -1,61 +1,64 @@
-### Hi there 👋 Nice to see u.
+# 👋 สวัสดีครับ ผมชื่อ [ชื่อของคุณ]
 
-- 😄 My name is: Suriyakamo Karo
-- ⚡ Student id: 63367131
-- 🔭 I'm currently studying on Faculty of Engineering.
-- 👨‍💻 Interesting career in the future : Game Master
-- <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"> 40%
-- Aptitude is calculation
- 
-## Developer Tech
+ยินดีต้อนรับสู่ GitHub ของผม!  
+ผมเป็นนักพัฒนา Back-End ที่มีความสนใจในการพัฒนา Web Application โดยเฉพาะด้านระบบฝั่งเซิร์ฟเวอร์ (Server-side) และมีประสบการณ์ในการพัฒนา API ด้วย Node.js, Express และการจัดการฐานข้อมูลด้วย MongoDB และ MySQL
 
-### Frameworks 
-<p align="left">
-<a href="#">
-    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a>  
+---
 
-<a href="#">
-    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
-  </a>  
+## 🧑‍💻 เทคโนโลยีที่ผมถนัด
 
-<a href="#">
-    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
-  </a> 
+### Back-End
+- **Node.js**
+- **Express.js**
+- **RESTful API**
+- **JWT Authentication**
+- **MongoDB (Mongoose)**
+- **MySQL (Sequelize ORM)**
 
-</p>
+### Front-End
+แม้ผมจะเน้นพัฒนา Back-End เป็นหลัก แต่ปัจจุบันผมได้เริ่มศึกษาด้าน Front-End เพื่อเข้าใจระบบโดยรวม และสามารถพัฒนาแอปพลิเคชันแบบ Full-stack ได้ในอนาคต โดยมีเทคโนโลยีที่ศึกษาและลองใช้งานดังนี้:
+- **พื้นฐาน React.js** – รู้จักการสร้าง Component, การจัดการ State และ Props
+- **HTML / CSS / JavaScript** – ใช้สำหรับสร้างหน้าเว็บเบื้องต้น และเข้าใจ DOM
+- **Tailwind CSS** – สำหรับการจัดการ UI ที่รวดเร็วและเป็นระบบ
 
-### Languages 
-<p align="left">
-<a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a> 
+### Dev Tools & เครื่องมืออื่น ๆ
+- **Postman** – สำหรับทดสอบ API
+- **Git / GitHub** – เวอร์ชันคอนโทรล
+- **Visual Studio Code**
+- **Nodemailer** – สำหรับระบบ Reset Password
+- **Docker** (เบื้องต้น)
+- **PM2** – Process Manager
+- **Swagger** – สำหรับ API Documentation
 
-<a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
+---
 
-</P>
+## 🛠️ โปรเจกต์ที่เคยทำ
 
-### Tools 
-<p align="left">
-<a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a>
+- **Simple Task Management API**  
+  ระบบจัดการงานแบบง่าย ๆ ด้วย Node.js, Express.js และ MongoDB  
+  รองรับ JWT Authentication และ CRUD Function แบบสมบูรณ์
 
- <a href="#">
-    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
-  </a> 
+- **Advanced Task Management System (กำลังพัฒนา)**  
+  ฟีเจอร์ที่กำลังพัฒนา:
+  - Refresh Token และ Reset Password
+  - Logging (Winston), Error Monitoring
+  - Caching (Redis), Pagination
+  - ระบบความปลอดภัย (Helmet, Rate Limiting)
+  - Deployment ด้วย Docker และ PM2
 
-</P>
+---
 
-## Devices / Manufacturers
-<p align="left">
-<a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
+## 🎯 เป้าหมาย
 
-<a href="#">
-    <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
+ผมกำลังพัฒนาทักษะเพื่อเตรียมตัวเข้าสู่สายงาน **Back-End Developer** อย่างมืออาชีพ  
+พร้อมทั้งศึกษาด้าน Front-End เพิ่มเติมเพื่อสามารถทำงานแบบ **Full-stack Developer** ได้ในอนาคต  
+ผมให้ความสำคัญกับการออกแบบระบบที่ปลอดภัย มีประสิทธิภาพ และดูแลรักษาได้ง่าย
+
+---
+
+## 📬 ติดต่อผม
+
+- Email: [your-email@example.com]
+- LinkedIn: [ลิงก์ LinkedIn ของคุณ ถ้ามี]
+
+ขอบคุณที่แวะเข้ามาชมครับ 🙏
