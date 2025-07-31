@@ -13,7 +13,7 @@
 - **RESTful API**
 - **JWT Authentication**
 - **MongoDB (Mongoose)**
-- **MySQL (Sequelize ORM)**
+- **MySQL (Prisma ORM)**
 
 ### Front-End
 แม้ผมจะเน้นพัฒนา Back-End เป็นหลัก แต่ปัจจุบันผมได้เริ่มศึกษาด้าน Front-End เพื่อเข้าใจระบบโดยรวม และสามารถพัฒนาแอปพลิเคชันแบบ Full-stack ได้ในอนาคต โดยมีเทคโนโลยีที่ศึกษาและลองใช้งานดังนี้:
